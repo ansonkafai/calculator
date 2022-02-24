@@ -6,13 +6,13 @@ StringAccumulator.java<br/>
 StringAccumulatorTest.java
 
 
-<u><strong>Steps to run maven test:</strong></u><br/>
+#### Steps to run maven test:
 Assume project dir is "C:\workspace\calculator"
 ```
 cd C:\workspace\calculator
 mvn clean test
 ```
-<u><strong>Steps to run maven install:</strong></u>
+#### Steps to run maven install:
 ```
 cd C:\workspace\calculator
 mvn clean install
