@@ -1,6 +1,6 @@
-Command console main: App.java
-Core program logic: StringAccumulator.java
-JUnit test: StringAccumulatorTest.java
+Command console main class: App.java
+Core program logic class: StringAccumulator.java
+JUnit testing class: StringAccumulatorTest.java
 
 Github path: https://github.com/ansonkafai/exercise/tree/master/calculator
 
