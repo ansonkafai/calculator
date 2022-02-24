@@ -1,9 +1,9 @@
-**Command console main class**: App.java
-**Core program logic class**: StringAccumulator.java
+**Command console main class**: App.java<br/>
+**Core program logic class**: StringAccumulator.java<br/>
 **JUnit testing class**: StringAccumulatorTest.java
 
 
-<u><strong>Steps to run maven test:</strong></u>
+<u><strong>Steps to run maven test:</strong></u><br/>
 Assume project dir is "C:\workspace\calculator"
 ```
 cd C:\workspace\calculator
